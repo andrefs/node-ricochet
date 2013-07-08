@@ -1,6 +1,6 @@
-# ricochet : connect channels using triggers and response actions
+# ricochet
 
-`ricochet` lets you connect channels by adding recipes which define
+Connect channels by adding recipes which define
 actions and the triggers that set them off. 
 
 # Installing
